@@ -32,6 +32,8 @@ The dashboard provides clear and interactive HR analytics:
 
 ### 🖼️ Dashboard Preview
 ![Dashboard](./dashboard.png)
+![WhatsApp Image 2026-04-02 at 1 10 50 PM](https://github.com/user-attachments/assets/e5378d4f-c382-4b2a-8d10-650303ebf198)
+
 
 ---
 
