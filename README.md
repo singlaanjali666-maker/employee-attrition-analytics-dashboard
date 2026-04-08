@@ -1,20 +1,20 @@
-# 📊 Employee Attrition Analytics Dashboard
+#  Employee Attrition Analytics Dashboard
 
-## 🚀 Overview
+##  Overview
 This project is an **AI-driven employee attrition analysis system** that automates data processing and visualizes key HR insights. It helps organizations identify high-risk employees and make better retention decisions.
 
 ---
 
-## 🔄 Workflow Automation
+##  Workflow Automation
 The system uses an automated workflow to process employee data:
 
-- 📥 Google Sheets Trigger (data input)
-- ⚙️ Risk Score Calculation
-- 🔀 Risk Level Classification (High / Low)
-- 📢 Alert Message Formatting
-- 💾 Data Preparation for Storage
+- Google Sheets Trigger (data input)
+- Risk Score Calculation
+- Risk Level Classification (High / Low)
+- Alert Message Formatting
+- Data Preparation for Storage
 
-### 🖼️ Workflow Architecture
+###  Workflow Architecture
 ![Workflow](./workflow.png)
 
 ---
@@ -22,22 +22,22 @@ The system uses an automated workflow to process employee data:
 ## 📊 Dashboard Insights
 The dashboard provides clear and interactive HR analytics:
 
-- 👥 Total Responses  
-- 😊 Average Job Satisfaction  
-- 🚪 Leave Intent Score  
-- ⚠️ High-Risk Employees  
-- 📉 Risk Score Analysis
+-  Total Responses  
+-  Average Job Satisfaction  
+-  Leave Intent Score  
+-  High-Risk Employees  
+-  Risk Score Analysis
 - ![WhatsApp Image 2026-04-02 at 1 10 48 PM](https://github.com/user-attachments/assets/07b1136d-1dfe-4bcc-a458-0858e6f02e2e)
  
 
-### 🖼️ Dashboard Preview
+###  Dashboard Preview
 ![Dashboard](./dashboard.png)
 ![WhatsApp Image 2026-04-02 at 1 10 50 PM](https://github.com/user-attachments/assets/e5378d4f-c382-4b2a-8d10-650303ebf198)
 
 
 ---
 
-## 📈 Key Features
+##  Key Features
 - Automated risk scoring system  
 - Employee classification (High/Low risk)  
 - Visual analytics dashboard  
@@ -46,7 +46,7 @@ The dashboard provides clear and interactive HR analytics:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Google Sheets (Data Source)  
 - Workflow Automation Tool (n8n / Zapier)  
 - Power BI / Dashboard Tool  
@@ -54,7 +54,7 @@ The dashboard provides clear and interactive HR analytics:
 
 ---
 
-## 🎯 Use Case
+##  Use Case
 This project helps HR teams to:
 - Identify employees likely to leave  
 - Improve employee engagement strategies  
@@ -63,19 +63,19 @@ This project helps HR teams to:
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 - Real-time alerts (Email/Slack)  
 - Machine learning-based predictions  
 - Advanced employee segmentation  
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Anjali Singla**
 
 ---
 
-## ⚠️ Important
-👉 Upload your images to the repository and rename them as:
+##  Important
+ Upload your images to the repository and rename them as:
 - `workflow.png`
 - `dashboard.png`
